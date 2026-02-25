@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010797709552",
+    "project_id": "blood-don-c808f",
+    "storage_bucket": "blood-don-c808f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010797709552:android:b675d3b2b5821e2027da35",
+        "android_client_info": {
+          "package_name": "com.example.blood_donat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDKlMYeiODRJPGlQoFSqEFT8ci_nCwI40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
